@@ -1,0 +1,5 @@
+cargo:rerun-if-changed=runtime
+cargo:rerun-if-changed=runtime/java/lang/Math.java
+cargo:rerun-if-changed=runtime/java/lang/Object.java
+cargo:rerun-if-changed=runtime/java/lang/String.java
+cargo:rerun-if-changed=runtime/java/lang/System.java

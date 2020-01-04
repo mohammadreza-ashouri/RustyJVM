@@ -1,2 +1,1 @@
-# RustyJVM
-A tiny &amp; secure and fast JVM written in RUST
+A small fast JVM made in Rust
